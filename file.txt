@@ -1,3 +1,3 @@
 hello my name is sam wells
-i am from boston, ma.
+i am from boston, ma, but live in austin, tx.
 i am learning how to code with actualize!
